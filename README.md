@@ -1,1 +1,2 @@
 # OT-Domain-Adaptation-Semantic-Segmentation
+I apologize for the long-term lack of maintenance. Due to changes in my personal life and work, the current implementation may not perfectly match the method described in the original paper—some details might differ. However, the core ideas and logic remain unchanged and should still serve as a useful reference. I intend to revisit and refine this code when circumstances permit in the future.
